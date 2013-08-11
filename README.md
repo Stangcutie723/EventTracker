@@ -2,6 +2,7 @@ Event Tracker
 ============
 <br>
 This is a simple web-app that lets a user add new events, edit them, delete them, and type in a date for the event.
+I enjoyed doing the CSS and playing with the link css options. I hope to continue adding more things to this as time goes on.
 <br>
 The rails version I used was 4.0.0.<br>
 <br>
