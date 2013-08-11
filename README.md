@@ -3,7 +3,8 @@ EventTracker
 <br>
 This web-app lets the user add new events, edit them, delete them, and type in a date for the event.
 <br>
-The ruby version I used was 4.0.0.<br>
+The rails version I used was 4.0.0.<br>
+<br>
 The Dependencies are as follows:<br>
   coffee-rails (~> 4.0.0)<br>
   jbuilder (~> 1.2)<br>
