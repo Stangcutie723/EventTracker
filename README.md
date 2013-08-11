@@ -1,7 +1,7 @@
-EventTracker
+Event Tracker
 ============
 <br>
-This web-app lets the user add new events, edit them, delete them, and type in a date for the event.
+This is a simple web-app that lets a user add new events, edit them, delete them, and type in a date for the event.
 <br>
 The rails version I used was 4.0.0.<br>
 <br>
